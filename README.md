@@ -99,7 +99,7 @@
 - Clonar o projeto:
 
   ```bash
-   git clone https://github.com/Aszurar/redux-and-zustand
+   git clone https://github.com/Aszurar/csharp-fundamentos.git
   ```
 
 - É necessário ter o ambiente do .NET, recomande a instalação do Microsoft Visual Studio em conjunto dos pacotes **ASP.NET e desenvolvimento Web**, **Desenvolvimento para desktop com .NET** e **Desenvolvimento com a Plataforma Universal do Windows** .
