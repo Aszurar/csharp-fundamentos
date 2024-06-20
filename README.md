@@ -1,9 +1,6 @@
 # #1 - C#: Console App
+![image](https://github.com/Aszurar/csharp-fundamentos/assets/64987824/9643c760-1440-40f3-8b1d-f75f473d1d79)
 
-
-<div align="center">
-    <img src="" width="1000" alt="Banner">
-</div>
 
 ## Hello World - Console App
 
@@ -13,7 +10,8 @@
   <div align="center">
     <h3>Hello World</h3>
     
-     <img src="" width="1000" alt="Banner">
+    ![image](https://github.com/Aszurar/csharp-fundamentos/assets/64987824/6f4e8548-6be7-4437-b061-c76a69ac5140)
+
 
   </div>
 
@@ -30,18 +28,6 @@
           <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
           <a href="#package-como-baixar-e-executar-o-projeto">Baixar e Executar</a>&nbsp;
         </h2>
-</div>
-
----
-
-<div align="center">
-    <img src="" width="400" alt="Gif mostrando o projeto">
-</div>
-
-<div align="center" >
-
-**[Vídeo no Youtube]()**
-
 </div>
 
 ---
