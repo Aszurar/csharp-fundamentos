@@ -76,6 +76,13 @@
 
 ---
 
+## :seedling: Requisitos Mínimos
+
+  1. C#
+  2. .NET
+
+---
+
 ## :rocket: Tecnologias Utilizadas
 
 - O projeto foi desenvolvido utilizando as seguintes tecnologias:
