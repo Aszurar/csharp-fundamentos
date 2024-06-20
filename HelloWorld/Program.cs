@@ -6,9 +6,8 @@ namespace HelloWorld {
         
        static void Main()
         {
-            Console.WriteLine("Olá sorveteiros");
+            Console.WriteLine("Olá, tudo bem?");
 
-            Funcao funcao = new Funcao();
 
             Usuario myUser = new Usuario();
             myUser.Cadastro();
@@ -18,11 +17,6 @@ namespace HelloWorld {
             Carro carro = new Carro();
             carro.Ligar();
             carro.Desligar();
-
-
-            Pokemon typhlosion = new Pokemon();
-            typhlosion.AtaqueRapido();
-            typhlosion.RodaDeFoco();
                 
 
         }

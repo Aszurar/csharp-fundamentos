@@ -4,11 +4,11 @@
     {
         public void Ligar()
         {
-            Console.WriteLine("Liga mizera");
+            Console.WriteLine("Liga");
         }
 
         public void Desligar() {
-            Console.WriteLine("Deliga mizera");
+            Console.WriteLine("Desliga");
         }
     }
 }

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\",
+  "WorkspaceRootPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\test1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\test1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\test1\\test2\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\test1\\test2\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\test1\\test2\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\helloworld\\helloworld\\test1\\test2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\test1\\test2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\test1\\test2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\helloworld\\test1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4BF0A9-1483-417C-87C4-B6F3FC5398FA}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\test1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Funcao.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Funcao.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Funcao.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Funcao.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Funcao.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Funcao.cs",
               "RelativeToolTip": "HelloWorld\\Funcao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Class1.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Class1.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Test1\\Class1.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Class1.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Class1.cs",
               "RelativeToolTip": "HelloWorld\\Test1\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Test2\\Pokemon.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Test2\\Pokemon.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Test1\\Test2\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Test2\\Pokemon.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Test2\\Pokemon.cs",
               "RelativeToolTip": "HelloWorld\\Test1\\Test2\\Pokemon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,24 +85,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Test2\\Carro.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Test2\\Carro.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Test1\\Test2\\Carro.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Test1\\Test2\\Carro.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Test1\\Test2\\Carro.cs",
               "RelativeToolTip": "HelloWorld\\Test1\\Test2\\Carro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T18:00:48.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Usuario.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Usuario.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Usuario.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Usuario.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Usuario.cs",
               "RelativeToolTip": "HelloWorld\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,16 +111,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Program.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\HelloWorld\\HelloWorld\\Program.cs",
+              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-fundamentos\\HelloWorld\\Program.cs",
               "RelativeToolTip": "HelloWorld\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:59:48.531Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1261,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
