@@ -4,8 +4,8 @@
 
 ## Hello World - Console App
 
-- É um projeto simples, que tem o intuíto de praticar o básico da estrutura do código C#, como **namespace, classes, funções e modificadores de acesso como private, public e internal**.
-- Além disso, tem o intuíto de praticar o uso da ferrmanta Microsoft Visual Studio.
+- É um projeto simples, que tem o intuito de praticar o básico da estrutura do código C#, como **namespace, classes, funções e modificadores de acesso como private, public e internal**.
+- Além disso, tem o intuito de praticar o uso da ferrmanta Microsoft Visual Studio.
 
   <div align="center">
     <h3>Hello World</h3>
